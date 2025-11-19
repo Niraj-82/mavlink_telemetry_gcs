@@ -1,0 +1,11 @@
+.card {
+  @apply bg-slate-800 rounded-xl p-3 shadow-md;
+}
+
+.card-label {
+  @apply text-xs uppercase tracking-wide text-slate-400;
+}
+
+.card-value {
+  @apply text-xl font-semibold;
+}
